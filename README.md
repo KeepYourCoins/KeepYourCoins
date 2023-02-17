@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KeepYourCoins
 - 👀 I’m interested in Bitcoin
 - 💞️ I’m looking to collaborate on Bitcoin and open-source projects
-- 📫 You can reach me on twitter @KeepYourCoins
 
 <!---
 KeepYourCoins/KeepYourCoins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
